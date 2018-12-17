@@ -2,7 +2,7 @@ import javax.swing.*;
 
 
 public class SudokuLogic {
-    private static SudokuSimpleBoard sudokuSimpleBoard;
+    private  SudokuSimpleBoard sudokuSimpleBoard;
 
     public SudokuLogic(SudokuSimpleBoard sudokuSimpleBoard) {
         this.sudokuSimpleBoard = sudokuSimpleBoard;
